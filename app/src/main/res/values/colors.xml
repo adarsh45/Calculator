@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#141738</color> <!--for background of digits-->
+    <color name="colorPrimaryDark">#05061A</color> <!--for background of text view-->
+    <color name="colorAccent">#FF3F00</color>
+
+    <color name="colorButtonDigit">#131232</color>
+    <color name="colorBackgroundDigit">#141738</color>
+    <color name="colorButtonOperation">#3A3C89</color>
+    <color name="colorBackgroundOperation">#24244A</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_button">80dp</dimen>
+    <dimen name="LL_margin_vertical">4dp</dimen>
+
+    <dimen name="digit_text_size">28sp</dimen>
+    <dimen name="op_text_size">32sp</dimen>
+    <dimen name="result_text_size">42sp</dimen>
+</resources>
